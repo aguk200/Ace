@@ -1,5 +1,6 @@
 from datetime import datetime
 
+password = "password123"
 FN = "test.txt"
 
 i = 2
