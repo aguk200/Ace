@@ -14,6 +14,6 @@ print ("Hello", a)
 if (i==2):
     print ("Line ",b,": ",a, file=fa)
 
-print (b)
+print (b, password)
 fa.close()
 fr.close()
